@@ -10,7 +10,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 
 ## Contracts created in Rinkeby test network
-   Replacing 'FarmerRole'
+  'FarmerRole'
    ----------------------
    > transaction hash:    0xb65533ffe85eba1ec8e2c7a49a0e582ba9b9541cd974e6d66df3007c11736fc0
    > Blocks: 0            Seconds: 9
@@ -25,7 +25,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
    > total cost:          0.00306084 ETH
 
 
-   Replacing 'DistributorRole'
+   'DistributorRole'
    ---------------------------
    > transaction hash:    0xd50b72203b26857bc9a96a40c5faa971ee7169c1d0021bc6467cc96aae547572
    > Blocks: 1            Seconds: 12
@@ -40,7 +40,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
    > total cost:          0.00306072 ETH
 
 
-   Replacing 'RetailerRole'
+   'RetailerRole'
    ------------------------
    > transaction hash:    0xa613e7b152a5a66dd56eceeb9d95bdc539e26860da3e271b2cd2aaca3c18ed2f
    > Blocks: 1            Seconds: 5
@@ -54,8 +54,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
    > value sent:          0 ETH
    > total cost:          0.00306084 ETH
 
-
-   Replacing 'ConsumerRole'
+  'ConsumerRole'
    ------------------------
    > transaction hash:    0xf8632f77ed243c51d6c0fac6da63a26dab6c5dae50f02e3bf8d7f8ef4fc6d69d
    > Blocks: 0            Seconds: 5
@@ -70,7 +69,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
    > total cost:          0.00306084 ETH
 
 
-   Replacing 'SupplyChain'
+   'SupplyChain'
    -----------------------
    > transaction hash:    0x3ab137c6d284a653726d476e78818353ae56a74f38ce1f72d57efb01be715390
    > Blocks: 0            Seconds: 5
